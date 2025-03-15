@@ -26,6 +26,7 @@ A **modern and user-friendly car rental website** that allows customers to brows
 - REST API (to connect frontend & backend)  
 
 ---
+![IMG_6950](https://github.com/user-attachments/assets/517d333f-7289-4314-87a8-a0e31d49a92d)
 
 ## 🚀 Getting Started  
 ### **Clone the repository**  
