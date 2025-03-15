@@ -26,7 +26,13 @@ A **modern and user-friendly car rental website** that allows customers to brows
 - REST API (to connect frontend & backend)  
 
 ---
-![IMG_6950](https://github.com/user-attachments/assets/517d333f-7289-4314-87a8-a0e31d49a92d)
+
+## 📸 Screenshots 
+<img width="475" alt="s1" src="https://github.com/user-attachments/assets/e0c36b86-9ec4-4fa4-8902-f375ee43ebc2" />
+<img width="513" alt="s2" src="https://github.com/user-attachments/assets/817f926d-8730-48f2-89f2-e576ef7c47db" />
+<img width="569" alt="s3" src="https://github.com/user-attachments/assets/aefab8f9-2e68-4209-8f6a-385f61c86974" />
+
+---
 
 ## 🚀 Getting Started  
 ### **Clone the repository**  
